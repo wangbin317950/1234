@@ -1,3 +1,3 @@
 first day
 second day
-I am talent
+I'm talent
